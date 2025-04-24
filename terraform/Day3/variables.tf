@@ -6,7 +6,6 @@ variable "instance_type_value" {
   description = "instance type value"
 }
 
-
 variable "key_name" {
   description = "instance key value"
 }
